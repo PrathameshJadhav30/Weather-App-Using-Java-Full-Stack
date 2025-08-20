@@ -1,0 +1,46 @@
+# Compiled source code
+*.class
+*.o
+*.so
+*.dll
+*.exe
+*.out
+
+# Archives
+*.zip
+*.tar.gz
+*.rar
+*.7z
+
+# Log files
+*.log
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Python
+__pycache__/
+*.py[cod]
+
+# Node
+node_modules/
+
+# Java
+*.jar
+*.war
+*.ear
+
+# C/C++
+*.obj
+*.gch
+
+# VSCode and IDE settings
+.vscode/
+.idea/
+
+# Misc
+*.swp
+*.bak
+*.tmp
+*.old
